@@ -15,3 +15,5 @@
 ![header](header.jpg "header")
 
 ![content](content.jpg "content")
+
+![footer](footer.jpg "footer")
