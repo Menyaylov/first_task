@@ -12,6 +12,8 @@
 
 ## Проанализируйте структуру страницы сайта. Покажите в коде header footer и content:
 
+Сайт имеет “классическую” структуру, состоящий из header, content и footer.
+
 ![header](header.jpg "header")
 
 ![content](content.jpg "content")
