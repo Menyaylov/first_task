@@ -33,3 +33,4 @@ footer
 
 ## Создайте прототип низкой детализации:
 
+![prototype](prototype.jpg "prototype")
