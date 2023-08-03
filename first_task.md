@@ -11,3 +11,6 @@
 ![protocol](protocol.jpg "protocol")
 
 ## Проанализируйте структуру страницы сайта. Покажите в коде header footer и content:
+
+![header](header.jpg "header")
+
