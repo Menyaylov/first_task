@@ -19,3 +19,5 @@
 ![content](content.jpg "content")
 
 ![footer](footer.jpg "footer")
+
+Анализ кода показал также применение CSS и скриптов.
