@@ -14,10 +14,11 @@
 
 Сайт имеет “классическую” структуру, состоящий из header, content и footer.
 
+header
 ![header](header.jpg "header")
-
+content
 ![content](content.jpg "content")
-
+footer
 ![footer](footer.jpg "footer")
 
 Анализ кода показал также применение CSS и скриптов.
@@ -29,3 +30,6 @@
 
 Стало:
 ![has_become](has_become.jpg "has_become")
+
+## Создайте прототип низкой детализации:
+
