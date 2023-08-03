@@ -10,3 +10,4 @@
 Сайт работает на протоколе HTTPS.
 ![protocol](protocol.jpg "protocol")
 
+## Проанализируйте структуру страницы сайта. Покажите в коде header footer и content:
